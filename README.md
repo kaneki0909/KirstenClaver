@@ -2,16 +2,16 @@
 
 <h2>Linux</h2>
 
-- <b>CHanging Permissions on Linux</b>
-  - [CHMOD](https://github.com/kaneki0909/File-permission-in-Linux)
+- <b>Changing Permissions on Linux</b>
+  - [CHMOD] (https://github.com/kaneki0909/File-permission-in-Linux)
 
 <h2>Cybersecurity</h2>
 - <b>Threat Management (Azure Sentinel, Powershell Automation)</b>
-  - [SIEM](https://github.com/kaneki0909/SIEM-Analysis)
+  - [SIEM] (https://github.com/kaneki0909/SIEM-Analysis)
 
 <h2>Python</h2>
 - <b>Basic Python</b>
-  - [Basic DSA](https://github.com/kaneki0909/INTERNSOFTcodefiles)
+  - [Basic DSA] (https://github.com/kaneki0909/INTERNSOFTcodefiles)
 
 
 
