@@ -3,7 +3,7 @@
 <h2>Linux</h2>
 
 - <b>Changing Permissions on Linux</b>
-  - [CHMOD] (https://github.com/kaneki0909/File-permission-in-Linux)
+  - [CHMOD](https://github.com/kaneki0909/File-permission-in-Linux)
 
 <h2>Cybersecurity</h2>
 - <b>Threat Management (Azure Sentinel, Powershell Automation)</b>
