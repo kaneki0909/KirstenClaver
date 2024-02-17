@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kirsten Claver! <br/><a href="https://github.com/kaneki0909">Developer</a> and an <a href="https://www.linkedin.com/in/kirsten-claver-alphonsus-b3a816193/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Kirsten Claver! <br/><a href="https://github.com/kaneki0909">Developer</a> and <a href="https://www.linkedin.com/in/kirsten-claver-alphonsus-b3a816193/">An Aspiring Cybersecurity Professional</a></h1>
 
 <h2>Linux</h2>
 
