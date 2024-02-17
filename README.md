@@ -13,7 +13,7 @@
 <h2>Python</h2>
 
 - <b>Basic Python</b>
-  - [Basic DSA] (https://github.com/kaneki0909/INTERNSOFTcodefiles)
+  - [Basic DSA](https://github.com/kaneki0909/INTERNSOFTcodefiles)
 
 
 
